@@ -8,7 +8,7 @@ def line(katz_deli)
       current_sentence += " #{counter}. #{p}"
       counter += 1 
     end
-    current_sentence
+    puts current_sentence
   end
 end
 
